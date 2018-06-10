@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nextday">
+    <output-path>$PROJECT_DIR$/out/artifacts/nextday</output-path>
+    <root id="archive" name="nextday.war">
+      <element id="artifact" artifact-name="web:war exploded" />
+      <element id="module-output" name="softTest" />
+    </root>
+  </artifact>
+</component>

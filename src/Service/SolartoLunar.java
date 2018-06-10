@@ -163,7 +163,7 @@ public class SolartoLunar {
         return lunar;
     }
 
-    /*public String[] test(String year,String month,String day){
+    /*public String[] Service.test(String year,String month,String day){
         Solar solar = new Solar();
         solar.solarYear = Integer.parseInt(year);
         solar.solarMonth = Integer.parseInt(month);
